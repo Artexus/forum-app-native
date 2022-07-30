@@ -1,0 +1,8 @@
+// "http://172.17.100.2:8080"
+// "http://192.168.100.20:8080"
+export const BASE_API_URL = "https://api-forum-backend.herokuapp.com"
+export const REGISTER_API_URL = "/auth/register"
+export const LOGIN_API_URL = "/auth/login"
+export const GENERATE_TOKEN_URL = "/auth/token"
+export const GET_POSTS_URL = "/posts"
+export const POST_URL = "/posts"
